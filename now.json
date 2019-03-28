@@ -1,0 +1,23 @@
+{
+  "name": "SaxGuy",
+  "alias": [
+    "epicsaxguy",
+    "saxguy",
+    "epicsaxophoneguy",
+    "epicsaxophoneman",
+    "saxophone",
+    "sax",
+    "saxman",
+    "epicsaxman",
+    "saxx",
+    "saxxx",
+    "epicsaxman",
+    "coolsaxdude",
+    "ilovesax"
+  ],
+  "version": 2,
+  "builds": [ { "src": "index.js", "use": "@now/node" } ],
+  "github": {
+    "silent": true
+  }
+}
